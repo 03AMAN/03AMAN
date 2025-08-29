@@ -1,3 +1,6 @@
+<h1 align="center"><b>AMAN VERMA</b></h1>
+<p align="center">Full-Stack Developer | ⚛️ React.js • 🌬️ Tailwind CSS • 🅱️ Bootstrap • MERN | ☕ Java • 🐍 Python • 🗄️ SQL | AI/ML Enthusiast | BTech CSE (AIML) | Open to SDE Roles</p>
+
 # 💫 About Me:
 🛠️ Currently working on: Full Stack Development (major focus on Frontend Development)<br><br>🤝 Looking to collaborate on: Full Stack & AI/ML projects<br><br>🙌 Seeking help/mentorship in: Full Stack Development (MERN Stack)<br><br>🌱 Currently learning & improving: Frontend Development (React.js)<br><br>💬 Ask me about: Full Stack (MERN Stack), Python, AI/ML<br><br>⚡ Fun fact: I lift heavy weights in the gym and debug heavy code at the same time 💪💻
 
@@ -14,5 +17,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=03AMAN&icon=0&color=8)](https://visitcount.itsvg.in)
+
+📬 Feel free to connect with me for collaborations or exciting projects!
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
